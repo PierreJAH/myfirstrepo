@@ -2,12 +2,12 @@
 
 body {
 margin: 0;
-background-color: blue;
+background-color: white;
 font-family:helvetica;
 }
 
 h1{
-  color: white;
+  color: green;
 }
 
 #container {
