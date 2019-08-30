@@ -1,10 +1,13 @@
 
 
 body {
-margin: 0
-color:blue;
+margin: 0;
+background-color: blue;
 font-family:helvetica;
+}
 
+h1{
+  color: white;
 }
 
 #container {
